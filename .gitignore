@@ -1,0 +1,16 @@
+# User-uploaded private files
+assets/uploads/requests/*
+assets/uploads/profiles/*
+!assets/uploads/requests/.gitkeep
+!assets/uploads/profiles/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/
+
+# Local environment
+*.log
+.env
