@@ -9,7 +9,6 @@ assets/uploads/profiles/*
 Thumbs.db
 .vscode/
 .idea/
-.claude/
 
 # Local environment
 *.log
