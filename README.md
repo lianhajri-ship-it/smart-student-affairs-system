@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/screenshots/00-cover.jpeg" alt="Smart Student Affairs System — University of Bisha" width="100%">
+
 # Smart Student Affairs System
 ### نظام إدارة شؤون الطلاب الذكي
 
@@ -11,10 +13,6 @@ A web platform for the **Deanship of Student Affairs at the University of Bisha*
 ![Gemini](https://img.shields.io/badge/Google-Gemini_AI-4285F4?logo=google&logoColor=white)
 
 [English](#english) · [العربية](#arabic) · [Screenshots / لقطات الشاشة](#screenshots)
-
-<br>
-
-<img src="docs/screenshots/01-landing-hero.png" alt="Landing page" width="100%">
 
 </div>
 
@@ -29,11 +27,17 @@ A web platform for the **Deanship of Student Affairs at the University of Bisha*
 <table>
   <tr>
     <td width="50%" align="center">
+      <img src="docs/screenshots/01-landing-hero.png" alt="Landing page hero">
+      <br><b>Landing Page</b> · الصفحة الرئيسية
+    </td>
+    <td width="50%" align="center">
       <img src="docs/screenshots/02-landing-features.png" alt="Landing page features">
       <br><b>Features</b> · المميزات
     </td>
-    <td width="50%" align="center">
-      <img src="docs/screenshots/03-login.png" alt="Login page">
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="docs/screenshots/03-login.png" alt="Login page" width="50%">
       <br><b>Login</b> (Student · Advisor · Admin) · تسجيل الدخول
     </td>
   </tr>
@@ -68,13 +72,9 @@ A web platform for the **Deanship of Student Affairs at the University of Bisha*
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <img src="docs/screenshots/08-advisor-dashboard.png" alt="Academic advisor dashboard">
+    <td colspan="2" align="center">
+      <img src="docs/screenshots/08-advisor-dashboard.png" alt="Academic advisor dashboard" width="50%">
       <br><b>Academic Advisor Dashboard</b> · لوحة المرشد الأكاديمي
-    </td>
-    <td width="50%" align="center">
-      <img src="docs/screenshots/01-landing-hero.png" alt="Landing page hero">
-      <br><b>Landing Page</b> · الصفحة الرئيسية
     </td>
   </tr>
 </table>
