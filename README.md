@@ -10,9 +10,74 @@ A web platform for the **Deanship of Student Affairs at the University of Bisha*
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3_RTL-7952B3?logo=bootstrap&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google-Gemini_AI-4285F4?logo=google&logoColor=white)
 
-[English](#english) · [العربية](#arabic)
+[English](#english) · [العربية](#arabic) · [Screenshots / لقطات الشاشة](#screenshots)
+
+<br>
+
+<img src="docs/screenshots/01-landing-hero.png" alt="Landing page" width="100%">
 
 </div>
+
+---
+
+<a id="screenshots"></a>
+
+## 📸 Screenshots · لقطات الشاشة
+
+### 🌐 Public Website · الموقع العام
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="docs/screenshots/02-landing-features.png" alt="Landing page features">
+      <br><b>Features</b> · المميزات
+    </td>
+    <td width="50%" align="center">
+      <img src="docs/screenshots/03-login.png" alt="Login page">
+      <br><b>Login</b> (Student · Advisor · Admin) · تسجيل الدخول
+    </td>
+  </tr>
+</table>
+
+### 🎓 Student · الطالب
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="docs/screenshots/04-student-dashboard.png" alt="Student dashboard">
+      <br><b>Student Dashboard</b> · لوحة الطالب
+    </td>
+    <td width="50%" align="center">
+      <img src="docs/screenshots/05-ai-assistant.png" alt="AI assistant">
+      <br><b>AI Assistant (Gemini RAG)</b> · المساعد الذكي
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Staff · الموظفون
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="docs/screenshots/06-admin-dashboard.png" alt="Admin dashboard">
+      <br><b>Admin Dashboard</b> · لوحة الإداري
+    </td>
+    <td width="50%" align="center">
+      <img src="docs/screenshots/07-manager-dashboard.png" alt="Manager dashboard">
+      <br><b>Manager Dashboard</b> · لوحة المدير
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="docs/screenshots/08-advisor-dashboard.png" alt="Academic advisor dashboard">
+      <br><b>Academic Advisor Dashboard</b> · لوحة المرشد الأكاديمي
+    </td>
+    <td width="50%" align="center">
+      <img src="docs/screenshots/01-landing-hero.png" alt="Landing page hero">
+      <br><b>Landing Page</b> · الصفحة الرئيسية
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -89,7 +154,7 @@ STD/
 ├── backend/    Form handlers, chatbot endpoint, migrations
 ├── includes/   DB, auth, helpers, Gemini client, layout
 ├── assets/     CSS, JS, images, uploads
-├── docs/       Documentation (EN / AR)
+├── docs/       Documentation (EN / AR) and screenshots
 └── std_system.sql
 ```
 
